@@ -61,5 +61,7 @@ gemini-pro-streamlit-chatbot/
 ```
 ## Acknowledgements
 Google Generative AI
+
 Streamlit
+
 Python Dotenv
